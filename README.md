@@ -1,5 +1,4 @@
 # 👨🏻‍💻 About Me:
-# 💫 About Me:
 💻 Desenvolvedor Full-Stack em formação, apaixonado por tecnologia desde os 6 anos, quando desmontava computadores antigos em casa para entender como tudo funcionava.<br><br>🚀 Focado em projetos práticos, aplicando o que aprendo todos os dias.<br><br>🛠️ Tecnologias que estou estudando: JavaScript, React, HTML & CSS, SQL, Ruby, Ruby on Rails, PostgreSQL, Bootstrap, e Inteligência Artificial (IA).<br><br>🤝 Aberto a colaborações e oportunidades para crescer na área de desenvolvimento de software.
 
 
